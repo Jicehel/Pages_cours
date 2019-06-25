@@ -1,13 +1,13 @@
-<h2>Qu’est-ce que la programmation ?</h2>
+## Qu’est-ce que la programmation ?
 
 Dans ce chapitre, nous allons ensemble comprendre les bases de la programmation. 
 Ne vous inquiétez pas, nous allons partir de zéro, aucune connaissance n'est requise pour suivre ce tutoriel.
 
-<h3>La programmation</h3>
-La **programmation**, c’est l’action de **programmer** quelque chose, c’est-à-dire établir à l'avance une suite d'opérations; planifier, déterminer à l'avance le moment et les modalités d'une action.
-En informatique, c’est l’ensemble des activités liées à la définition, l'écriture, la mise au point et l'exécution de **programmes informatiques**.
+### La programmation
+La ** programmation **, c’est l’action de ** programmer ** quelque chose, c’est-à-dire établir à l'avance une suite d'opérations; planifier, déterminer à l'avance le moment et les modalités d'une action.
+En informatique, c’est l’ensemble des activités liées à la définition, l'écriture, la mise au point et l'exécution de ** programmes informatiques **.
 
-<h>Le programme<h3>
+### Le programme
 
 Une instruction est un ordre, une action que le processeur doit suivre.
 Un programme est une suite d'instructions et de données écrites à l'avance par le programmeur susceptible d'être exécutée par un ordinateur ou autre système électronique programmable. 
