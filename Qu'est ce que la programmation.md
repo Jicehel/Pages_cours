@@ -14,6 +14,6 @@ Un **programme** est une suite d'**instructions** et de **données** écrites à
 Cela peut être un jeu vidéo, un tableur, un traitement de texte, une animation de leds, un système d’alarme, un système de contrôle d’un circuit de train électrique…
 Lorsque vous mettez le programme en marche, le système applique alors les instructions dans l’ordre dans lequel elles ont été placées dans le programme afin d’atteindre l’objectif attendu, ou du moins c'est ce que l'on espère obtenir...
 
-[center]![Schéma d'un programme](https://i.goopics.net/8gkm7.png)[/center]
+<p align="center"><img class="fit-picture"       src="https://i.goopics.net/8gkm7.png"      alt="Schéma d'un programme" /></p>
 
  
