@@ -57,4 +57,11 @@ Le fait de structurer son programme permet aussi d'obtenir un code source plus l
 Le fait d'avoir réfléchit un peu aux différents problèmes possibles et aux cas particuliers permet également d'éviter beaucoup d’erreurs (bogues) et le temps investi au début de votre projet évitera d'en perdre plus, plus tard, lors de la recherche de ces bogues et autres défauts que vous verriez apparaitre lors de vos tests.
 La première étape pour écrire un programme est donc l’analyse de ce qui est à faire et la suite d’opérations à réaliser pour y arriver en le décomposant en plusieurs petits ensemble d'instruction visant à effectuer des tâches simples.
 
-Prenons un exemple de la vie quotidienne: Je veux faire cuire des pâtes,  
+Prenons un exemple de la vie quotidienne: Je veux faire cuire des pâtes, il va me falloir sortir une casserole, mettre de l’eau dans la casserole, ajouter du gros sel, mettre la casserole sur le feu. Il faudra ensuite attendre que l'eau boue avant d'y verser les pâtes puis attendre de nouveau que le temps de cuisson soit écoulé avant de les égouter puis de les servir dans un plat
+Nous avons réfléchit à une progression logique de suite de tâches à effectuer.
+Il existe un formalisme pour l'écriture de ces tâches en informatique: c'est ce que l'on appelle l'alogrithmique. Nous ne l'étudierons pas dans ce chapitre pour ne pas le surcharger.
+
+#### A retenir:
+
+**alogrithmique** étude et production de règles et techniques impliquées dans la définition et la conception d'algorithmes, c'est-à-dire de processus systématiques de résolution d'un problème en décrivant précisément les étapes à suivre pour résoudre ce problème.   
+**algorithme**: suite ordonnée d’opérations permettant de résoudre un problème donné
