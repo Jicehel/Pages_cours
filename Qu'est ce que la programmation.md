@@ -65,3 +65,25 @@ Il existe un formalisme pour l'écriture de ces tâches en informatique: c'est c
 
 **alogrithmique** étude et production de règles et techniques impliquées dans la définition et la conception d'algorithmes, c'est-à-dire de processus systématiques de résolution d'un problème en décrivant précisément les étapes à suivre pour résoudre ce problème.   
 **algorithme**: suite ordonnée d’opérations permettant de résoudre un problème donné
+
+## Passons à la pratique avec la Gamebuino Meta
+
+Pour commencer, il nous faut installation le logiciel qui vous permettera de taper votre code et de l'envoyer sur la Gamebuino via le câble USB. C'est ce que l'on appelle un IDE (Integrated Development Environment),  en français on utilise « environnement de développement ». Ce logiciel rassemble des outils permettant de développer des programmes ou morceaux de code qui pourront être sauvegardés et réutilisés dans d’autres programmes.
+[Installons l'IDE Arduino](https://gamebuino.com/fr/academy/workshop/start-with-your-gamebuino/quick-software-setup)
+
+Maintenant, terminons de paramétrer l'IDE Arduino, compilons un petit programme tout simple et lançons le sur la console
+[Lançons un programme sur la META](https://gamebuino.com/fr/academy/workshop/start-with-your-gamebuino/compile-and-run-a-game)
+
+Etudions la structure de base d'un programme c++ écrit pour la META ainsi que les messages d'erreurs que nous pourrions obtenir:
+[Etudions la structure d'un programme C++ pour la META](https://gamebuino.com/fr/academy/workshop/make-your-very-first-games-with-pong/hello-world)
+
+Continuons en ajoutant des variables et un "structure conditionnelle"
+[Ajoutons les variables et les structures conditionnelles](https://gamebuino.com/fr/academy/workshop/make-your-very-first-games-with-pong/tally-counter)
+
+Maintenant, nous allons allons mettre en pratique ces notions pour comprendre comment afficher des choses à un endroit précis sur l'écran de la META, gérer un déplacement et gérer les collisions quand on atteint les bords de cet écran (c'est déjà, ce que l'on appelle une collision mais on en reparlera plus tard)
+[Etudions l'écran de la META et les déplacements d'un rectangle sur cet écran](https://gamebuino.com/fr/academy/workshop/make-your-very-first-games-with-pong/bouncing-ball)
+
+[Etudions les collisions pour créer le célèbre jeu: Pong](https://gamebuino.com/fr/academy/workshop/make-your-very-first-games-with-pong/pong)
+
+Terminons notre Pong en ajoutant de l'aléatoire dans le comportement de l'ordinateur pour rendre le jeu moins prévisible et plus amusant
+[De l'intelligence aléatoire](https://gamebuino.com/fr/academy/workshop/make-your-very-first-games-with-pong/artificial-intelligence)
